@@ -1,4 +1,6 @@
-Windows
+# 实战Django
+
+https://github.com/jackfrued/Python-100-Days/blob/master/Day41-55/
 
 ```
 python -m venv venv
@@ -11,6 +13,8 @@ django-admin startproject oa .
 python manage.py runserver 127.0.0.1:8089
 python manage.py runserver 8089
 http://127.0.0.1:8089/
+
+python manage.py startapp hrs
 
 pip install pymysql
 
