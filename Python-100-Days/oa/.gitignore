@@ -3,3 +3,5 @@ venv
 oa/__pycache__
 
 hrs/__pycache__
+
+hrs/migrations/__pycache__
